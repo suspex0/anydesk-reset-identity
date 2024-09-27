@@ -1,2 +1,2 @@
 # Anydesk-reset-identity
-This application will reset anydesk identity, after that it will restore your original username and profile image.
+I have written this application quick and dirty to reset anydesk identity & restore your original username and profile image.
