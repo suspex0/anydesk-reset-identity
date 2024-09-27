@@ -3,4 +3,4 @@ I have written this application quick and dirty to reset anydesk identity & rest
 
 ### You must have installed Anydesk on C:
 
-![xored](https://github.com/suspex0/anydesk-reset-identity/blob/main/anydesk-reset.PNG?raw=true)
+![xored](https://github.com/suspex0/anydesk-reset-identity/blob/main/anydesk-reset-new.PNG?raw=true)
